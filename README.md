@@ -1,2 +1,2 @@
 # My-Coding-Story
-As
+As a newcomer in coding learning, I create the 
